@@ -1,4 +1,3 @@
-
 @font-face {
   font-family: "Flaticon";
   src: url("../icon-fonts/Flaticon.eot");
@@ -9,6 +8,7 @@
   font-weight: normal;
   font-style: normal;
 }
+
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
